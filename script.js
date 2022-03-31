@@ -27,6 +27,6 @@ card.addEventListener("mouseout", function handleMouseOut(){
     dots.style.visibility = "hidden";
     cardAccent.style.backgroundColor = "#171717";
     hiddenButtons.style.display = "none";
-    cardTitle.style.fontSize = "inherit"; 
+    cardTitle.style.fontSize = "16px"; 
 
 })

@@ -1,0 +1,10 @@
+<div id="content">
+    <div id="header">
+    </div>
+    <div id="below-header">
+        <div id="navbar">
+        </div>
+        <div id="card-container">
+        </div>
+    </div>
+</div>
